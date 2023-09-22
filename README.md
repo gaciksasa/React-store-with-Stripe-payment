@@ -39,16 +39,19 @@ After installation run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+
 ### Checkout
 
 For test checkout use test credit card:
 
-4242 4242 4242 4242
-12/34           123
+Credit Card Number: 4242 4242 4242 4242
+Expires: 12/34
+PIN: 123
 
 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 
