@@ -8,14 +8,16 @@ This is an example Express server integrated with Stripe for payment processing.
 
 ### Prerequisites
 
-Node.js and npm installed \
-Stripe account and Stripe API keys \
+Node.js and npm installed 
+
+Stripe account and Stripe API keys 
 
 npm install express cors stripe
 
 #### Server configuration
 
-Replace the Stripe secret key with your own key in server.js line 3: \
+Replace the Stripe secret key with your own key in server.js line 3: 
+
 const stripe = require("stripe")("your_stripe_secret_key_here");
 
 #### Server start
@@ -36,10 +38,12 @@ After installation run:
 
 #### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
+The page will reload when you make changes.
+
 You may also see any lint errors in the console.
 
 
@@ -47,8 +51,10 @@ You may also see any lint errors in the console.
 
 For test checkout use test credit card:
 
-Credit Card Number: 4242 4242 4242 4242 \
-Expires: 12/34 \
+Credit Card Number: 4242 4242 4242 4242
+
+Expires: 12/34
+
 PIN: 123
 
 
