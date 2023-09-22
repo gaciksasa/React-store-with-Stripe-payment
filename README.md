@@ -2,6 +2,8 @@
 
 This is a sample eCommerce application built using React 18 that features an integrated Stripe payment system, enabled through an Express server. With a responsive user interface and secure payment gateway, this application serves as a full-stack solution for running an online store.
 
+
+
 ## Getting Started with Stripe Payment Server with Express
 
 This is an example Express server integrated with Stripe for payment processing. The server handles the checkout process by creating a Stripe session.
